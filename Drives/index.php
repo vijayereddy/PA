@@ -181,7 +181,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<img src="images/2.png" alt="" />
 							</figure>
 							<h5>Workshops</h5>
-							<p>Find out the number of Workshops that are frequently conducting in our Campus.</p>
+							<p>Find out the number of Workshops that are freequently conducting in our Campus.</p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -191,7 +191,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<img src="images/3.png" alt="" />
 							</figure>
 							<h5>Innovation and Creativity</h5>
-							<p>Creating Oppourtunities and Encouraging to Create One with Our Young Dynamic Principal.</p>
+							<p>Creating Oppourtunities and Encouraging to Create One with Our Young Scientist Award Winner as Vice-Principal.</p>
 						</div>
 						<div class="col-md-6 service-box wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 							<figure class="icon">
@@ -265,12 +265,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>MRCET
-							<span>Maisammaguda,Dhulapally,<br>Hyderabad</span>
+						<p>MRCET,Maisammaguda
+							<span>Kompally,Medchal,Hyderabad</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 77026 62352</p>
+						<p>+91 830 1979790/223365</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -289,8 +289,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>MRCET Placements | Developed by<br>
-              <a href="#" target="_parent">P Vijayeshwar Reddy</a>
+					 <p>Copyright &copy; 2020 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">Moumitha Reddy V</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

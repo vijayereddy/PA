@@ -39,7 +39,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span class="menu"><img src="images/menu.png" alt=""></span>
 					<ul class="nav1">
 						<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">CIT-PMS<i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">MRCET<i>Goto Placement Homepage</i></a>
 							</li>
 						<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
@@ -185,8 +185,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					 <p>Copyright &copy; 2015 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">ZNumerique Technologies</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

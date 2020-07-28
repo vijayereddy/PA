@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-    
+
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +10,7 @@
         <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
         <link rel="icon" href="favicon.ico" type="image/icon">
-        <title>CIT-PMS Home</title>
+        <title>MRCET Home</title>
         <!-- Bootstrap Core CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
         <!-- Footer -->
@@ -32,20 +32,20 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
-    
+
     <body id="page-top">
-        
+
         <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style="background:black">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                        
+
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="http://www.mrcet.com">Malla Reddy College of Engineering and Technology</a>
+                    <a class="navbar-brand page-scroll" href="http://www.MRCET.ac.in">Malla Reddy College of Engineering and Technology</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -63,7 +63,7 @@
                             <a class="page-scroll" href="../Profilers/PriProfile/index.php">Administrative Login</a>
                         </li>
                     </ul>
-                
+
             </div>
                 <!-- /.navbar-collapse -->
             </div>
@@ -124,13 +124,14 @@
 				</div>
 				<div class="col-md-3 get_in_touch ftr">
 					<h3>GET IN TOUCH</h3>
-					<p>P Vijayeshwar Reddy</p>
-					<p>+91 77026 62352</p>
-					<a href="mailto:vijayeshwar26@gmail.com">vijayeshwar26@gmail.com</a>
+					<p>Maisammguda,Dhulapally</p>
+					<p>Malla Reddy College of Engineering and Technology</p>
+					<p>83019-79790/221456</p>
+					<a href="mailto:moumithareddyv18@gmail.com">moumithareddyv186@gmail.com</a>
 				</div>
 				<div class="col-md-3 ftr-logo">
-					<p>MRCET Placements | Developed by<br>
-              <a href="#" target="_parent">P Vijayeshwar Reddy</a>
+					<p>Copyright &copy; 2018 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">Moumitha Reddy V</a>
 				</div>
 				<div class="clearfix"></div>
 			</div>

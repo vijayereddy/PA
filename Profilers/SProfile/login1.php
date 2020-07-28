@@ -1,24 +1,25 @@
+
 <?php
 	session_start();
 	$username = $_POST['username'];
 	$password  = $_POST['password'];
-	
+
 	if ($username&&$password)
 	{
-		$connect = mysql_connect("localhost","root","") or die("Couldn't Connect");
-		mysql_select_db("placement") or die("Cant find DB");
-		
-		$query = mysql_query("SELECT * FROM slogin WHERE USN='$username'");
-		
-		$numrows = mysql_num_rows($query);
-		
+		$connect = mysqli_connect("localhost","root","","placement") or die("Couldn't Connect");
+		//mysql_select_db("placement") or die("Cant find DB");
+
+		$query = $connect->query("SELECT * FROM slogin WHERE USN='$username'");
+
+		$numrows = $query->num_rows;
+
 		if ($numrows!=0)
 		{
-			while($row = mysql_fetch_assoc($query))
+			while($row = $query->fetch_assoc())
 			{
 				$dbusername = $row['USN'];
 				$dbpassword = $row['PASSWORD'];
-				
+
 			}
 			if ($username==$dbusername&& $password==$dbpassword)
 			{
@@ -37,4 +38,4 @@
 	}
 	else
 	die("Please enter USN and Password");
-	?>
+?>

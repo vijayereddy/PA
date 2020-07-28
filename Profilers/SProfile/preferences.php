@@ -6,16 +6,16 @@
    else {
 	   header("location: index.php");
    die("You must be Log in to view this page <a href='index.php'>Click here</a>");}
-   
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
-  
+
   <head>
     <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
         <link rel="icon" href="favicon.ico" type="image/icon">
-      
+
     <link rel="shortcut icon" href="favicon.ico" type="image/icon">
     <link rel="icon" href="favicon.ico" type="image/icon">
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
     <title>Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    
+
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -36,14 +36,14 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  
+
   <body>
     <!-- Left column -->
     <div class="templatemo-flex-row">
       <div class="templatemo-sidebar">
         <header class="templatemo-site-header">
           <div class="square"></div>
-         
+
 		  <?php
 		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['username']. "</h1>";
@@ -87,7 +87,7 @@
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
                 <li>
-                  <a href="../../Homepage/index.html" >Home CIT-PMS</a>
+                  <a href="../../Homepage/index.html" >Home CUSAT-SOE</a>
                 </li>
                 <li>
                   <a href="">Drives Homepage</a>
@@ -116,22 +116,22 @@
                   <label for="inputLastName">Last Name</label>
                   <input type="text"  name="Lname" class="form-control" id="inputLastName" placeholder="Laxman">
                 </div>
-				
+
 				<div class="col-lg-6 col-md-6 form-group">
                   <label for="usn">USN</label>
                   <input type="text" name="USN" class="form-control" id="usn" placeholder="1CG12IS000" >
                 </div>
-               
+
 				<div class="col-lg-6 col-md-6 form-group">
                   <label for="Phone">Phone:</label>
                   <input type="text" name="Num" class="form-control" id="Phone" placeholder="91xxxxxxxx">
                 </div>
-				
+
 				 <div class="col-lg-6 col-md-6 form-group">
                   <label for="Email">Email</label>
                   <input type="Email" name="Email" class="form-control" id="Email" placeholder="abc@example.com">
                 </div>
-				
+
                 <div class="col-lg-6 col-md-6 form-group">
                   <label for="DOB">Date of Birth</label>
                   <input type="date" name="DOB" class="form-control" id="DOB" placeholder="DD/MM/YYYY">
@@ -150,14 +150,14 @@
                     <option value="8">8</option>
                   </select>
 				  </div>
-				  
-				
+
+
 				  <div class="col-lg-6 col-md-6 form-group">
                   <label class="control-label templatemo-block">Branch of Study</label>
                   <select name="Branch" class="form-control">
                     <option value="select">Branch</option>
                     <option value="BScience">Basic Science</option>
-                    <option value="ISE">ISE</option>
+                    <option value="IT">IT</option>
                     <option value="CSE">CSE</option>
                     <option value="EEE">EEE</option>
                     <option value="ECE">ECE</option>
@@ -211,8 +211,8 @@
                     <option value="4">4</option>
                   </select>
                 </div>
-                
-              </div>               
+
+              </div>
               </div>
               <div class="row form-group">
                 <div class="col-lg-12">
@@ -224,7 +224,7 @@
                 </div>
               </div>
               <div class="form-group text-right">
-                
+
 				<button type="submit"  name="submit" class="templatemo-blue-button">add</button>
 				<button type="submit"  name="update" class="templatemo-blue-button">update</button>
                 <button type="reset" class="templatemo-white-button">Reset</button>
@@ -232,8 +232,8 @@
             </form>
           </div>
           <footer class="text-right">
-           		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           		<p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine </a>
 			  </p>
           </footer>
         </div>

@@ -1,7 +1,7 @@
 <?php
   session_start();
   if(($_SESSION["pusername"])){
-    
+
   }
    else {
 	   header("location: index.php");
@@ -19,7 +19,8 @@
     <title>Placement - Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    <!-- 
+
+    <!--
     Visual Admin Template
     http://www.templatemo.com/preview/templatemo_455_visual_admin
     -->
@@ -63,8 +64,8 @@
           </div>
         <nav class="templatemo-left-nav">
           <ul>
-            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li> 
-            <li><a href="Placement Drives.php" class="active"><i class="fa fa-home fa-fw"></i>Placement Drives</a></li>          
+            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="Placement Drives.php" class="active"><i class="fa fa-home fa-fw"></i>Placement Drives</a></li>
             <li><a href="manage-users.php"><i class="fa fa-users fa-fw"></i>View Students</a></li>
             <li><a href="queries.php"><i class="fa fa-users fa-fw"></i>Queries</a></li>
             <li><a href="Students Eligibility.php"><i class="fa fa-sliders fa-fw"></i>Students Eligibility Status</a></li>
@@ -78,7 +79,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                  <li><a href="../../Homepage/indes.php">Home CIT-PMS</a></li>
+                  <li><a href="../../Homepage/indes.php">Home CUSAT-SOE</a></li>
                 <li><a href="">Drives Home</a></li>
                 <li><a href="Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -89,9 +90,9 @@
         <div class="templatemo-content-container">
           <div class="templatemo-content-widget white-bg">
            <div class="templatemo-flex-row flex-content-row">
-            <div class="col-1">              
+            <div class="col-1">
               <div class="templatemo-content-widget orangee-bg">
-                <i class="fa fa-times"></i>                
+                <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
                     <a href="Placement Drives/addpdrive.php">
@@ -100,12 +101,12 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Add Placement Drives</h2>
-                    <p>Add New/Existing Company To the Current Drive List</p>  
-                  </div>        
-                </div>                
-              </div> 
+                    <p>Add New/Existing Company To the Current Drive List</p>
+                  </div>
+                </div>
+              </div>
 				<div class="templatemo-content-widget orangeee-bg">
-                <i class="fa fa-times"></i>                
+                <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
                    <a href="Placement Drives/update.php">
@@ -113,13 +114,13 @@
                    </a>
                   </div>
                   <div class="media-body">
-				  
-                    <h2 class="media-heading text-uppercase">Update Drive Details</h2><p>Update the Details of Drives happened and the Status of Students </p>				
-                  </div>        
-                </div>                
-              </div> 
+
+                    <h2 class="media-heading text-uppercase">Update Drive Details</h2><p>Update the Details of Drives happened and the Status of Students </p>
+                  </div>
+                </div>
+              </div>
 				<div class="templatemo-content-widget orangeeee-bg">
-                <i class="fa fa-times"></i>                
+                <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
                     <a href="Placement Drives/Companydetails.php">
@@ -128,12 +129,12 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Company Details</h2>
-                    <p>View the Eligibility Criteria of Companies Visited to Our Campus</p>  
-                  </div>        
-                </div>                
-              </div> 			  
+                    <p>View the Eligibility Criteria of Companies Visited to Our Campus</p>
+                  </div>
+                </div>
+              </div>
 				<div class="templatemo-content-widget oranggge-bg">
-                <i class="fa fa-times"></i>                
+                <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
                     <a href="Placement Drives/drivehome.php">
@@ -142,10 +143,10 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Drive Details</h2>
-                    <p>Get the Whole Information of the Happened Drives</p>  
-                  </div>        
-                </div>                
-              </div>        			  
+                    <p>Get the Whole Information of the Happened Drives</p>
+                  </div>
+                </div>
+              </div>
               <div class="templatemo-content-widget orangge-bg">
                 <i class="fa fa-times"></i>
                 <div class="media">
@@ -156,16 +157,16 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Upload Image to Gallery</h2>
-                    <p>Update the Image To PMS Gallery</p>  
+                    <p>Update the Image To PMS Gallery</p>
                   </div>
-                </div>                
-              </div>            
+                </div>
+              </div>
             </div>
           </div>
           <footer class="text-right">
-            <p>Copyright &copy; 2001-2015 CIT-PMS
-            | Designed by <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a></p>
-          </footer>       
+            <p>Copyright &copy; 2018 CUSAT-SOE
+            | Designed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>
+          </footer>
         </div>
       </div>
     </div>

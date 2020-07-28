@@ -14,14 +14,14 @@
   <head>
     <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">	
+        <link rel="icon" href="favicon.ico" type="image/icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>HOD - Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    <!-- 
+    <!--
     Visual Admin Template
     http://www.templatemo.com/preview/templatemo_455_visual_admin
     -->
@@ -71,17 +71,17 @@
             <li><a href="manage-users.php" ><i class="fa fa-users fa-fw"></i>Student Details</a></li>
             <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
-          </ul>  
+          </ul>
         </nav>
       </div>
-      <!-- Main content --> 
+      <!-- Main content -->
       <div class="templatemo-content col-1 light-gray-bg">
         <div class="templatemo-top-nav-container">
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
                    <li>
-                  <a href="../../Homepage/index.php">Home CIT-PMS</a>
+                  <a href="../../Homepage/index.php">Home CUSAT-SOE</a>
                 </li>
                 <li>
                   <a href="../../Drives/index.php">Drives Homepage</a>
@@ -92,21 +92,21 @@
                 <li>
                   <a href="Change Password.php">Change Password</a>
                   </li>
-              </ul>  
+              </ul>
             </nav>
           </div>
         </div>
         <div class="templatemo-content-container">
           <div class="templatemo-content-widget white-bg">
-            
+
 			<center><h2 class="margin-bottom-10">Read Message</h2>
             <p>Notifications from Placement Department and Principal</p></center>
-            
-              
+
+
           </div>
           <footer class="text-right">
-           		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           		<p>Copyright &copy; 2015 CUSAT-SOE |
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
 			  </p>
           </footer>
         </div>

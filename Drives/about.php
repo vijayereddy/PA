@@ -39,13 +39,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span class="menu"><img src="images/menu.png" alt=""></span>
 					<ul class="nav1">
 						<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">MRCET <i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">MRCET<i>Goto Placement Homepage</i></a>
 							</li>
 						<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
 							</li>
 							<li class="hvr-sweep-to-bottom active">
-								<a href="about.php">About<i>About Us and our Cheif Architects</i></a>
+								<a href="about.php">About<i>About Us and our Chief Architects</i></a>
 							</li>
 							<li class="hvr-sweep-to-bottom">
 								<a href="products.php">Campus Drives<i>Campus Drives</i></a>
@@ -89,7 +89,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					  <h3>Placement and Training Department</h3>
 						<h5></span></h5>
-						<p>Our Institute is located near Dhulapally, a well known place of learning. Our college is affiliated to Jawaharlal Nehru Technological University, recognized by AICTE, New Delhi, & by Government of Telangana. Within a short span of 16 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated AAA Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
+						<p>Our Institute is located in South Kalamessery, a well known place of learning. Our college is affiliated to Cochin University Of Science  And Technological, Kochi (Kerala), recognized by AICTE, New Delhi, & by Government of Kerala. Within a short span of 47 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated A Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
 						</p>
 					</div>
 				</div>
@@ -103,11 +103,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="about-bottom">
 		<!-- container -->
 		<div class="container">
-			<h3 class="wow fadeInRight animated" style="visibility: visible;">A New Generation of MRCET</h3>
+			<h3 class="wow fadeInRight animated" style="visibility: visible;">A New Generation of CUSAT</h3>
 			<div class="about-bottom-grids">
 				<div class="col-md-6 about-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					<h4>What We Offer?</h4>
-					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Science and Engineering, Electronics and communication, Aeronautical, Electrical and Electronics,  Mechanical, and 03 post graduate courses viz. M.Tech in Computer Science, M.Tech in Electronics and Master of Business Administration (MBA). 
+					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Technology, Electronics and communication, Electrical and Electronics, Civil, Mechanical,Safety and Fire Engineering ,and 03  post graduate courses viz. M.Tech in Computer Science, M.Tech in Electronics and Master of Business Administration (MBA). The Institute has facilities for doctoral research in Computer Science and Electronics. 
 					</p>
 				</div>
 				<div class="col-md-6 about-bottom-left about-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
@@ -130,24 +130,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3 class="wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Meet Our Team</h3>
 				<div class="team-grids">
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b10.jpg" alt="hod image">
+						<img src="images/b117.jpg" alt="">
+						<h6>Renumol V.G</h6>
+						<p> HOD IT Department</p>
+					</div>
+					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<img src="images/b10.jpg" alt="">
 						<h6>Name</h6>
 						<p>Designation</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b10.jpg" alt="pc">
-						<h6>Name</h6>
-						<p>Designation</p>
-					</div>
-					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b8.jpg" alt="pc">
+						<img src="images/b8.jpg" alt="">
 						<h6>Name</h6>
 						<p> Designation</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b8.jpg" alt="pc">
-						<h6>Name</h6>
-						<p>Designation</p>
+						<img src="images/b119.jpg" alt="">
+						<h6>James Vargese</h6>
+						<p>Placement Incharge</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -186,12 +186,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>MRCET
-							<span>Maisammaguda,Dhulapally,<br>Hyderabad</span>
+						<p>MRCET,Maisammaguda
+							<span>Kochi, Kerala</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 77026 62352</p>
+						<p>+91 830 1979790/223365</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -200,7 +200,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a href="../Homepage/index.php" style="color: white">Placement Management System</a>
 					</h4>
 					<p></p>
-				</div>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -211,8 +210,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>MRCET Placements | Developed by<br>
-              <a href="#" target="_parent">P Vijayeshwar Reddy</a>
+					 <p>Copyright &copy; 2020 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">Moumitha Reddy V</a>
 					</p>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">

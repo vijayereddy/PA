@@ -1,7 +1,7 @@
 <?php
   session_start();
  if (($_SESSION['husername'])){
-   
+
   }
    else {
 	   header("location: index.php");
@@ -14,14 +14,14 @@
   <head>
     <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">	
+        <link rel="icon" href="favicon.ico" type="image/icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>HOD - Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    <!-- 
+    <!--
     Visual Admin Template
     http://www.templatemo.com/preview/templatemo_455_visual_admin
     -->
@@ -48,7 +48,7 @@
 		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['husername']. "</h1>";
 		  echo "<h1>(</h1>";
-		    echo "<h1>" . $_SESSION['department']. "</h1>";   
+		    echo "<h1>" . $_SESSION['department']. "</h1>";
             echo "<h1>)</h1>";
 		  ?>
         </header>
@@ -68,7 +68,7 @@
           </div>
         <nav class="templatemo-left-nav">
           <ul>
-            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>           
+            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
             <li><a href="manage-student.php"><i class="fa fa-users fa-fw"></i>Manage Students</a></li>
             <li><a href="#"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
@@ -81,7 +81,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                  <li><a href="../../Homepage/indes.php">Home CIT-PMS</a></li>
+                  <li><a href="../../Homepage/indes.php">Home CUSAT-SOE</a></li>
                 <li><a href="../../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php">Notification</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -92,9 +92,9 @@
         <div class="templatemo-content-container">
           <div class="templatemo-content-widget white-bg">
            <div class="templatemo-flex-row flex-content-row">
-            <div class="col-1">              
+            <div class="col-1">
               <div class="templatemo-content-widget Bluegrey-bg">
-                <i class="fa fa-times"></i>                
+                <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
@@ -103,10 +103,10 @@
                   </div>
                   <div class="media-body">
                     <a href="RNotif.php"><h2 class="media-heading text-uppercase">Read Messages</h2></a>
-                    <p>Messages from Placement Department and Principal</p>  
-                  </div>        
-                </div>                
-              </div>            
+                    <p>Messages from Placement Department and Principal</p>
+                  </div>
+                </div>
+              </div>
               <div class="templatemo-content-widget Bluegrey1-bg">
                 <i class="fa fa-times"></i>
                 <div class="media">
@@ -117,15 +117,15 @@
                   </div>
                   <div class="media-body">
                     <a href="WNotif.php"><h2 class="media-heading text-uppercase"><p></p> Post Notifications</h2></a>
-                    <p>Send Messages to Students</p>  
+                    <p>Send Messages to Students</p>
                   </div>
-                </div>                
-              </div>            
+                </div>
+              </div>
             </div>
           </div>
           <footer class="text-right">
-            <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+            <p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
           </footer>
         </div>
       </div>

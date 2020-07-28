@@ -4,24 +4,24 @@
 	$password  = $_POST['password'];
 ?>
 
-	
-<?php 	
+
+<?php
 	if ($pusername&&$password)
 	{
-		$connect = mysql_connect("localhost","root","") or die("Couldn't Connect");
-		mysql_select_db("placement") or die("Cant find DB");
-		
-		$query = mysql_query("SELECT * FROM plogin WHERE Username='$pusername'");
-		
-		$numrows = mysql_num_rows($query);
-		
+		$connect = mysqli_connect("localhost","root","", "placement") or die("Couldn't Connect");
+		// mysql_select_db("placement") or die("Cant find DB");
+
+		$query = $connect->query("SELECT * FROM plogin WHERE Username='$pusername'");
+
+		$numrows = $query->num_rows;
+
 		if ($numrows!=0)
 		{
-			while($row = mysql_fetch_assoc($query))
+			while($row = $query->fetch_assoc())
 			{
 				$dbusername = $row['Username'];
 				$dbpassword = $row['Password'];
-				
+
 			}
 			if ($pusername==$dbusername&&$password==$dbpassword)
 			{
@@ -36,7 +36,7 @@
 			}
 		}else
 			die("User not exist");
-		
+
 	}
 	else
 	header("location: index.php");

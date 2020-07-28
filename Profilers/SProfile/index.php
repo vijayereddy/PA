@@ -109,14 +109,14 @@
 				</div>
 				<div class="col-md-3 get_in_touch ftr">
 					<h3>GET IN TOUCH</h3>
-					<p>NH4, Herur</p>
-					<p>Gubbi, Tumkur, India</p>
-					<p>08138-223818/223365</p>
-					<a href="mailto:cittumkur@rediffmail.com">cittumkur@rediffmail.com</a>
+					<p>University Hills</p>
+					<p>South Kalamessery, Kochi, India</p>
+					<p>08301-979790/223365</p>
+					<a href="mailto:Soumen1696@gmail.com">Soumen1696@gmail.com</a>
 				</div>
 				<div class="col-md-3 ftr-logo">
-					<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyright &copy; 2018 CUSAT-SOE | 
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
 			  </p>
 				</div>
 				</div>

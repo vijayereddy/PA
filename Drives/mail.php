@@ -40,12 +40,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span class="menu"><img src="images/menu.png" alt=""></span>
 					<ul class="nav1">
 						<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">MRCET <i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">MRCET<i>Goto Placement Homepage</i></a>
 							</li>
 						<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
 								<li class="hvr-sweep-to-bottom">
-									<a href="about.php">About<i>About Us and our Cheif Architects</i></a>
+									<a href="about.php">About<i>About Us and our Chief Architects</i></a>
 								</li>
 								<li class="hvr-sweep-to-bottom">
 									<a href="products.php">Campus Drives<i>Campus Drives</i></a>
@@ -77,21 +77,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- container -->
 		<div class="container">
 			<div class="map footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.854844580989!2d78.45302381402956!3d17.562096302367237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8f9f1dc57cdb%3A0xc3b2be0f5d684715!2sMRCET%20Placement%20Block!5e0!3m2!1sen!2sin!4v1588938786052!5m2!1sen!2sin" frameborder="0" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.666684800831!2d76.3260397509554!3d10.044339274988525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c377917e985%3A0xb0fd4b1e85a6e51f!2sCochin+University+of+Science+and+Technology!5e0!3m2!1sen!2sin!4v1542048085410" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="mail-grids">
 				<div class="col-md-6 mail-grid-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Contact Us</h3>	
 					<p></p>				
 					<h4>Malla Reddy College of Engineering and Technology</h4>
-					<p>Maisammaguda
-						<span>Dhulapally,Hyderabad-500100</span>
-						
+					<p>Maisammaguda,Dhulapally
+						<span>Kompally,Medchal</span>
+						India IN-682 022
 					</p>
 					<h4>Get In Touch</h4>
-					<p>Telephone: +91 1234567890
-						<span>FAX: +91 0987654321</span>
-						E-mail: <a href="mailto:mrcet2004@gmail.com">mrcet2004@gmail.com</a>
+					<p>Telephone: +91 830-1979790/223365
+						<span>FAX: +91 830-1979790</span>
+						E-mail: <a href="mailto:moumithareddyv18@gmail.com">moumithareddyv18@gmail.com</a>
 					</p>
 				</div>
 				<div class="col-md-6 contact-form wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -140,7 +140,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h3>Address</h3>
 					<div class="address">
 						<p>MRCET
-							<span>Maisammaguda, Dhulapally,<br>Hyderabad</span>
+							<span>Maisammaguda,Dhulapally,Medchal</span>
 						</p>
 					</div>
 					<div class="phone">
@@ -163,8 +163,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>MRCET Placements | Developed by<br>
-              <a href="#" target="_parent">P Vijayeshwar Reddy</a>
+					 <p>Copyright &copy; 2020 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">Moumitha Reddy V</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

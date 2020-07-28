@@ -2,7 +2,7 @@
 session_start();
 if(isset($_SESSION['reset']))
 {
-	
+
 } else
   header("location: Forgot Password.php");
 ?>
@@ -16,7 +16,7 @@ if(isset($_SESSION['reset']))
         <link type="text/css" rel="stylesheet" href="css/style.css">
 		<meta charset="utf-8">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	    <meta name="viewport" content="width=device-width, initial-scale=1">  
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
 	    <title>Student-Reset Password</title>
         <meta name="description" content="">
         <meta name="author" content="templatemo">
@@ -26,7 +26,7 @@ if(isset($_SESSION['reset']))
 	    <link href="css/templatemo-style.css" rel="stylesheet">
         <!-- Footer -->
         <link type="text/css" rel="stylesheet" href="../../Homepage/css/style.css">
-	    
+
 	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	    <!--[if lt IE 9]>
@@ -43,28 +43,28 @@ if(isset($_SESSION['reset']))
 	        <form action="rs1.php" class="templatemo-login-form" method="POST" enctype="multipart/form-data">
 				<div class="form-group">
 	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>	        		
-		              	<input type="text" name="USN" class="form-control" placeholder="USN" >           
-		          	</div>	
+		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>
+		              	<input type="text" name="USN" class="form-control" placeholder="USN" >
+		          	</div>
 	        	</div>
 	        	<div class="form-group">
 	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>	        		
-		              	<input type="password" name="PASSWORD" class="form-control" placeholder="New Password" >           
-		          	</div>	
+		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>
+		              	<input type="password" name="PASSWORD" class="form-control" placeholder="New Password" >
+		          	</div>
 	        	</div>
 				<div class="form-group">
 	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>	        		
-		              	<input type="password" name="repassword" class="form-control" placeholder="Retype Password" >           
-		          	</div>	
+		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>
+		              	<input type="password" name="repassword" class="form-control" placeholder="Retype Password" >
+		          	</div>
 				</div>
 				<div class="form-group">
 					<button type="submit" class="templatemo-blue-button width-100">Reset Password</button>
 				</div>
 	        </form>
 		</div>
-		
+
 			<!--footer-->
 		<div class="footer">
 			<div class="container">
@@ -110,14 +110,14 @@ if(isset($_SESSION['reset']))
 				</div>
 				<div class="col-md-3 get_in_touch ftr">
 					<h3>GET IN TOUCH</h3>
-					<p>NH4, Herur</p>
-					<p>Gubbi, Tumkur, India</p>
-					<p>08138-223818/223365</p>
-					<a href="mailto:cittumkur@rediffmail.com">cittumkur@rediffmail.com</a>
+					<p>University Hills</p>
+					<p>South Kalamessery, Kochi, India</p>
+					<p>0830-1979790/223365</p>
+					<a href="mailto:soumen1696@gmail.com">soumen1696@gmail.com</a>
 				</div>
 				<div class="col-md-3 ftr-logo">
-					<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
 				</div>
 				</div>
 				<div class="clearfix"></div>

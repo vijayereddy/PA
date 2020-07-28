@@ -18,7 +18,7 @@
     <title>Placement - Change Password</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    
+
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
 <?php
-		  $Welcome = "Ahoj!!";
+		  $Welcome = "Hello!!";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['pusername']. "</h1>";
 		  ?>
         </header>
@@ -59,26 +59,26 @@
           </div>
         <nav class="templatemo-left-nav">
           <ul>
-            <li><a href="#" ><i class="fa fa-home fa-fw"></i>Dashboard</a></li> 
-            <li><a href="Placement Drives.php"><i class="fa fa-home fa-fw"></i>Placement Drives</a></li>           
+            <li><a href="#" ><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="Placement Drives.php"><i class="fa fa-home fa-fw"></i>Placement Drives</a></li>
             <li><a href="manage-users.php"><i class="fa fa-users fa-fw"></i>View Students</a></li>
             <li><a href="queries.php"><i class="fa fa-users fa-fw"></i>Queries</a></li>
             <li><a href="Students Eligibility.php"><i class="fa fa-sliders fa-fw"></i>Students Eligibility Status</a></li>
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
-          </ul>  
+          </ul>
         </nav>
       </div>
-      <!-- Main content --> 
+      <!-- Main content -->
       <div class="templatemo-content col-1 light-gray-bg">
         <div class="templatemo-top-nav-container">
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../Homepage/index.php">Home CIT-PMS</a></li>
+               <li><a href="../../Homepage/index.php">Home CUSAT-SOE</a></li>
                 <li><a href="../../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php" class="active">Change Password</a></li>
-              </ul>  
+              </ul>
             </nav>
           </div>
         </div>
@@ -88,34 +88,34 @@
             <p>Change your Login Credentials</p>
             <form action="cp.php" class="templatemo-login-form" method="POST" enctype="multipart/form-data">
               <div class="row form-group">
-                
+
               <div class="row form-group">
-                <div class="col-lg-6 col-md-6 form-group">                  
+                <div class="col-lg-6 col-md-6 form-group">
                     <label for="inputCurrentPassword">Current Password</label>
-                    <input type="password" class="form-control highlight" id="inputCurrentPassword" placeholder="*******" name="curpassword">                  
-                </div>                
+                    <input type="password" class="form-control highlight" id="inputCurrentPassword" placeholder="*******" name="curpassword">
+                </div>
               </div>
               <div class="row form-group">
-                <div class="col-lg-6 col-md-6 form-group">                  
+                <div class="col-lg-6 col-md-6 form-group">
                     <label for="inputNewPassword">New Password</label>
                     <input type="password" class="form-control" id="inputNewPassword" name="Password">
                 </div>
-                <div class="col-lg-6 col-md-6 form-group">                  
+                <div class="col-lg-6 col-md-6 form-group">
                     <label for="inputConfirmNewPassword">Confirm New Password</label>
                     <input type="password" class="form-control" id="inputConfirmNewPassword" name="repassword">
-                </div> 
-              
+                </div>
+
               </div>
               <div class="form-group text-right">
                 <button type="submit" class="templatemo-blue-button">Update</button>
                 <button type="reset" class="templatemo-white-button">Reset</button>
-              </div>                           
+              </div>
             </form>
           </div>
           <footer class="text-right">
-            <p>Copyright &copy; 2001-2015 CIT-PMS
-            | Developed by <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a></p>
-          </footer>       
+            <p>Copyright &copy; 2018 CUSAT-SOE
+            | Developed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine </a></p>
+          </footer>
         </div>
       </div>
     </div>

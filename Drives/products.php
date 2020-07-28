@@ -4,7 +4,7 @@
 		<!--favicon-->
 		<link rel="shortcut icon" href="favicon.ico" type="image/icon">
 		<link rel="icon" href="favicon.ico" type="image/icon">
-		<title>CIT-PMS | Campus Drives</title>
+		<title>MRCET | Campus Drives</title>
 		<meta name="viewport"
 		content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
@@ -97,9 +97,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="products-top">
 			<!-- container -->
 			<div class="container">
-				<h3 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">On Going and Upcoming Drives</h3>
-				<h5 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Companies and their Details
-					<span></span>
+				<h3 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">On Going and Upcomming Drives</h3>
+				<h5 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Cras porttitor imperdiet volutpat nulla malesuada lectus eros
+					<span>ut convallis felis consectetur ut</span>
 				</h5>
 				<div class="products-top-grids wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<div class="col-md-4 products-grid">
@@ -108,8 +108,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div class="products-text">
 							<h4>Tata Consultancy Services</h4>
+							<p>Details about it...</p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 							</div>
 						</div>
 						<div class="clearfix"></div>
@@ -120,8 +121,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div class="products-text">
 							<h4>Infosys</h4>
+							<p>Details</p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="2.php" role="button">See More</a>
 							</div>
 						</div>
 						<div class="clearfix"></div>
@@ -133,7 +135,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="products-text">
 							<h4>Google</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="3.php" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -147,7 +149,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="products-text">
 							<h4>Microsoft</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="4.php" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -156,9 +158,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>5.</p>
 						</div>
 						<div class="products-text">
-							<h4>Haritha Tech</h4>
+							<h4>Directi </h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="5.php" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -169,7 +171,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="products-text">
 							<h4>Intel</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="about.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="6.php" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -256,12 +258,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>MRCET
-							<span>Maisammaguda,Dhulapally,<br>Hyderabad</span>
+						<p>MRCET,Maisammaguda,Dhulapally
+							<span>Kompally,Medchal,Hyderabad</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 77026 62352</p>
+						<p>+91 8301 979790/223365</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -270,7 +272,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a href="../Homepage/index.php" style="color: white">Placement Management System</a>
 					</h4>
 					<p></p>
-				</div>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -281,9 +282,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>MRCET Placements | Developed by<br>
-              <a href="#" target="_parent">P Vijayeshwar Reddy</a>
-					</p>
+					 <p>Copyright &copy; 2020 MRCET | Developed by
+              <a href="mailto:moumithareddyv18@gmail.com" target="_parent">Moumitha Reddy V</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

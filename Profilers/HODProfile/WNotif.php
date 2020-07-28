@@ -1,7 +1,7 @@
 <?php
   session_start();
  if (($_SESSION['husername'])){
-    
+
   }
    else {
 	   header("location: index.php");
@@ -14,14 +14,14 @@
   <head>
     <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">	
+        <link rel="icon" href="favicon.ico" type="image/icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>HOD - Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    <!-- 
+    <!--
     Visual Admin Template
     http://www.templatemo.com/preview/templatemo_455_visual_admin
     -->
@@ -48,7 +48,7 @@
 		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['husername']. "</h1>";
 		  echo "<h1>(</h1>";
-		    echo "<h1>" . $_SESSION['department']. "</h1>";   
+		    echo "<h1>" . $_SESSION['department']. "</h1>";
             echo "<h1>)</h1>";
 		  ?>
         </header>
@@ -70,7 +70,7 @@ NH4, Heruralt="Profile Photo" class="img-responsive">
           </div>
         <nav class="templatemo-left-nav">
           <ul>
-            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>           
+            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
             <li><a href="manage-student.php"><i class="fa fa-users fa-fw"></i>Manage Students</a></li>
             <li><a href="#"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
@@ -83,7 +83,7 @@ NH4, Heruralt="Profile Photo" class="img-responsive">
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                  <li><a href="../../Homepage/indes.php">Home CIT-PMS</a></li>
+                  <li><a href="../../Homepage/indes.php">Home CUSAT-SOE</a></li>
                 <li><a href="">Drives Home</a></li>
                  <li><a href="Notif.php">Notification</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -97,35 +97,35 @@ NH4, Heruralt="Profile Photo" class="img-responsive">
             <p>Department Notifications to Students</p>
             <form action="WN.php" method="POST">
               <div class="row form-group">
-                <div class="col-lg-12 form-group">                   
+                <div class="col-lg-12 form-group">
                     <label class="control-label" for="inputNote">Subject:</label>
                     <textarea class="form-control" id="inputNote" rows="2"></textarea>
                 </div>
               </div>
               <div class="row form-group">
-                <div class="col-lg-12 form-group">                   
+                <div class="col-lg-12 form-group">
                     <label class="control-label" for="inputNote">Message:</label>
                     <textarea class="form-control" id="inputNote" rows="5"></textarea>
                 </div>
               </div>
-			      
-             
+
+
               <div class="form-group text-right">
                 <button type="submit" class="templatemo-blue-button">POST</button>
                 <button type="reset" class="templatemo-white-button">Clear</button>
-              </div>  
+              </div>
 
 
 <center><label class="control-label" for="inputNote"><center><h2>OR</h2></center> <br/> <br/>To Upload an Image Click the Link below:</label><br/>
 			   <br/>
-			   <a href="upload.html" class="templatemo-blue-button">Post an Image</a></center>				  
+			   <a href="upload.html" class="templatemo-blue-button">Post an Image</a></center>
             </form>
           </div>
-		  
+
 
           <footer class="text-right">
-           <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           <p>Copyright &copy; 2018 CUSAT-SOE |
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
           </footer>
         </div>
       </div>

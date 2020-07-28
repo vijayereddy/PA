@@ -6,16 +6,16 @@
    else {
 	   header("location: index.php");
    die("You must be Log in to view this page <a href='index.php'>Click here</a>");}
-   
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
-  
+
   <head>
     <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
         <link rel="icon" href="favicon.ico" type="image/icon">
-      
+
     <link rel="shortcut icon" href="favicon.ico" type="image/icon">
     <link rel="icon" href="favicon.ico" type="image/icon">
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
     <title>Preferences</title>
     <meta name="description" content="">
     <meta name="author" content="templatemo">
-    
+
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -36,14 +36,14 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  
+
   <body>
     <!-- Left column -->
     <div class="templatemo-flex-row">
       <div class="templatemo-sidebar">
         <header class="templatemo-site-header">
           <div class="square"></div>
-         
+
 		  <?php
 		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['username']. "</h1>";
@@ -87,7 +87,7 @@
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
                 <li>
-                  <a href="../../Homepage/index.php" >Home CIT-PMS</a>
+                  <a href="../../Homepage/index.php" >Home CUSAT-SOE</a>
                 </li>
                 <li>
                   <a href="">Drives Homepage</a>
@@ -107,8 +107,8 @@
             <h1><center>Department Messages</center></h1>
           </div>
           <footer class="text-right">
-          		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+          		<p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine </a>
 			  </p>
           </footer>
         </div>
@@ -125,4 +125,3 @@
 
 </html>
 </html>
-
